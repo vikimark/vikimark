@@ -9,8 +9,6 @@
 * Interested in computer vision.
 * Fascinated about space:milky_way:.
 
-## :fire: My Stats :
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
 
 <!--START_SECTION:waka-->
