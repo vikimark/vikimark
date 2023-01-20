@@ -1,52 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 align="left">Hi, I'm Purich
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Purich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purich-siritip-16b3b3255/)](https://www.linkedin.com/in/purich-siritip-16b3b3255) [![Medium Badge](https://img.shields.io/badge/-@purich-gray?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@phuritsiritip)](https://medium.com/@phuritsiritip)
+[![Gmail Badge](https://img.shields.io/badge/-mark.phurit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mark.phurit@gmail.com)](mailto:mark.phurit@gmail.com)
 
-<h1 align="center">
-  Hi There
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+* Currently an engineering student.
+* Done moderate of machine-learning-related projects:film_projector:.
+* Interested in computer vision.
+* Fascinated about space:milky_way:.
 
-<div align="center">
-  <img src="https://statinfer.com/wp-content/uploads/dummy-user.png" width="600" height="300"/>
-</div>
+## :fire: My Stats :
 
----
-
-### :man_technologist: About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-- :telescope: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-- :seedling: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-- :zap: In my free time, Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/purich-siritip-16b3b3255)
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikimark&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikimark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
