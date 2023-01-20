@@ -20,11 +20,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://statinfer.com/wp-content/uploads/dummy-user.png" width="600" height="300"/>
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -33,13 +30,13 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/purich-siritip-16b3b3255)
 
 ---
 
@@ -51,8 +48,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=radical)
 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
