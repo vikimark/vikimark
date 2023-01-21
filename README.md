@@ -12,6 +12,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 January 2023 - To: 20 January 2023
+
+Total Time: 1 hr 41 mins
+
+Python   1 hr 16 mins    ███████████████████░░░░░░   75.66 %
+C++      14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+YAML     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+```
+
 <!--END_SECTION:waka-->
 
 
