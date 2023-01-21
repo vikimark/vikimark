@@ -12,29 +12,13 @@
 # Put effort into
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%203%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 29 Contributions in the Year 2023
- > 
-> 📦 66.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
-🌆 Daytime    34 commits     ██████░░░░░░░░░░░░░░░░░░░   25.37% 
-🌃 Evening    57 commits     ██████████░░░░░░░░░░░░░░░   42.54% 
-🌙 Night      18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43%
+🌞 Morning    31 commits     █████░░░░░░░░░░░░░░░░░░░░   22.14% 
+🌆 Daytime    34 commits     ██████░░░░░░░░░░░░░░░░░░░   24.29% 
+🌃 Evening    57 commits     ██████████░░░░░░░░░░░░░░░   40.71% 
+🌙 Night      18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
 
 ```
 
@@ -42,8 +26,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Bangkok
-
 💬 Programming Languages: 
 Python                   1 hr 16 mins        ███████████████████░░░░░░   75.66% 
 C++                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
@@ -59,7 +41,6 @@ vikimark                 7 mins              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 21/01/2023 02:10:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
