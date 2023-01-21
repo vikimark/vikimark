@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "TRUE"
           COMMIT_MESSAGE: "chored: updated dev metrics"
