@@ -3,7 +3,7 @@
 
 * Currently an engineering student.
 * Done moderate of machine-learning-related projects:film_projector:.
-* Interested in computer vision.
+* Interested in computer vision and making emulators:space_invader:.
 * Fascinated about space:milky_way:.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Purich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purich-siritip-16b3b3255/)](https://www.linkedin.com/in/purich-siritip-16b3b3255) [![Medium Badge](https://img.shields.io/badge/-@purich-gray?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@phuritsiritip)](https://medium.com/@phuritsiritip)
