@@ -62,6 +62,10 @@ vikimark                 7 mins              ██░░░░░░░░░�
  Last Updated on 21/01/2023 02:10:11 UTC
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-simple-->
+
+<!--END_SECTION:waka-simple-->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
 
 <!--
