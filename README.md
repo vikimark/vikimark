@@ -11,8 +11,6 @@
 
 # Put effort into
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -28,7 +26,7 @@ JSON     2 mins          ▓░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
 
 <!--
 **vikimark/vikimark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
