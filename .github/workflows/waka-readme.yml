@@ -15,6 +15,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: "waka-simple"
+          COMMIT_MESSAGE: "docs: updated overall time stats"
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME: true
