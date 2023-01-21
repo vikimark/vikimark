@@ -11,12 +11,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
-          COMMIT_BY_ME: "TRUE"
-          COMMIT_MESSAGE: "chored: updated dev metrics"
-          COMMIT_USERNAME: "vikimark"
-          COMMIT_EMAIL: "mark.phurit@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
