@@ -13,6 +13,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          COMMIT_BY_ME: "TRUE"
+          COMMIT_MESSAGE: "chored: updated dev metrics"
+          COMMIT_USERNAME: "vikimark"
+          COMMIT_EMAIL: "mark.phurit@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
