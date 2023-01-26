@@ -64,7 +64,7 @@
 
   <!--END_SECTION:waka-simple-->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)-->
   
 </details>
 
