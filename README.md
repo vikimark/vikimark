@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Purich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purich-siritip-16b3b3255/)](https://www.linkedin.com/in/purich-siritip-16b3b3255) [![Medium Badge](https://img.shields.io/badge/-@purich-gray?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@phuritsiritip)](https://medium.com/@phuritsiritip)
 [![Gmail Badge](https://img.shields.io/badge/-mark.phurit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mark.phurit@gmail.com)](mailto:mark.phurit@gmail.com)
 
-## Some statsw
+## Some stats
 
 <details>
   <summary></summary>
