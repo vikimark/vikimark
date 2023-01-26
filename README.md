@@ -9,59 +9,64 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Purich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purich-siritip-16b3b3255/)](https://www.linkedin.com/in/purich-siritip-16b3b3255) [![Medium Badge](https://img.shields.io/badge/-@purich-gray?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@phuritsiritip)](https://medium.com/@phuritsiritip)
 [![Gmail Badge](https://img.shields.io/badge/-mark.phurit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mark.phurit@gmail.com)](mailto:mark.phurit@gmail.com)
 
-# Some stats
+## Some statsw
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+<details>
+  <summary></summary>
+  
+  <!--START_SECTION:waka-->
+  **I'm a Night 🦉** 
 
-```text
-🌞 Morning    48 commits     ██████░░░░░░░░░░░░░░░░░░░   26.97% 
-🌆 Daytime    37 commits     █████░░░░░░░░░░░░░░░░░░░░   20.79% 
-🌃 Evening    71 commits     ██████████░░░░░░░░░░░░░░░   39.89% 
-🌙 Night      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36%
+  ```text
+  🌞 Morning    48 commits     ██████░░░░░░░░░░░░░░░░░░░   26.97% 
+  🌆 Daytime    37 commits     █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+  🌃 Evening    71 commits     ██████████░░░░░░░░░░░░░░░   39.89% 
+  🌙 Night      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36%
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   5 hrs 47 mins       ████████████████████░░░░░   81.28% 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
-
-🐱‍💻 Projects: 
-Computer Programming     5 hrs 45 mins       ████████████████████░░░░░   80.87% 
-vikimark                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-Arduino_project_final    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
-
-```
+  ```
 
 
-<!--END_SECTION:waka-->
+  📊 **This Week I Spent My Time On** 
 
-<!--START_SECTION:waka-simple-->
+  ```text
+  💬 Programming Languages: 
+  Python                   5 hrs 47 mins       ████████████████████░░░░░   81.28% 
+  YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
+  C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
+  Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
+  XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
-```text
-From: 19 January 2023 - To: 24 January 2023
+  🐱‍💻 Projects: 
+  Computer Programming     5 hrs 45 mins       ████████████████████░░░░░   80.87% 
+  vikimark                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
+  Arduino_project_final    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+  Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
 
-Total Time: 7 hrs 7 mins
+  ```
 
-Python       5 hrs 47 mins   ████████████████████▒░░░░   81.28 %
-YAML         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-C++          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-```
 
-<!--END_SECTION:waka-simple-->
+  <!--END_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
+  <!--START_SECTION:waka-simple-->
+
+  ```text
+  From: 19 January 2023 - To: 24 January 2023
+
+  Total Time: 7 hrs 7 mins
+
+  Python       5 hrs 47 mins   ████████████████████▒░░░░   81.28 %
+  YAML         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+  C++          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+  Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+  XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+  Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+  ```
+
+  <!--END_SECTION:waka-simple-->
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)
+  
+</details>
 
 <!--
 **vikimark/vikimark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
