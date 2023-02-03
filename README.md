@@ -51,7 +51,7 @@ Lab_2_LED_and_M5Stack_But20 mins             █░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 31 January 2023
+From: 19 January 2023 - To: 01 February 2023
 
 Total Time: 15 hrs 22 mins
 
