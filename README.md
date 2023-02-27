@@ -47,7 +47,7 @@ ComProgLab               0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 24 February 2023
+From: 19 January 2023 - To: 25 February 2023
 
 Total Time: 23 hrs 44 mins
 
