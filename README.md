@@ -46,7 +46,7 @@ vikimark                 0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 23 March 2023
+From: 19 January 2023 - To: 26 March 2023
 
 Total Time: 25 hrs 55 mins
 
