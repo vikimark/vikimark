@@ -43,7 +43,7 @@ Computer Programming     2 hrs 12 mins       ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 28 March 2023
+From: 19 January 2023 - To: 29 March 2023
 
 Total Time: 26 hrs 57 mins
 
