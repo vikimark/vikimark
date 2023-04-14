@@ -42,7 +42,7 @@ tmp                      36 mins             ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 11 April 2023
+From: 19 January 2023 - To: 12 April 2023
 
 Total Time: 27 hrs 44 mins
 
