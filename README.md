@@ -46,7 +46,7 @@ ped4you-website          8 mins              ██░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 02 May 2023
+From: 19 January 2023 - To: 03 May 2023
 
 Total Time: 37 hrs 58 mins
 
