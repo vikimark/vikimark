@@ -43,7 +43,7 @@ Ped4You-CrossRecognition 0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 07 May 2023
+From: 19 January 2023 - To: 09 May 2023
 
 Total Time: 38 hrs 30 mins
 
