@@ -41,7 +41,7 @@ No Activity Tracked This Week
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 22 May 2023
+From: 19 January 2023 - To: 23 May 2023
 
 Total Time: 38 hrs 38 mins
 
