@@ -43,7 +43,7 @@ robocup2022-cv-image-capt0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 06 June 2023
+From: 19 January 2023 - To: 08 June 2023
 
 Total Time: 42 hrs 38 mins
 
