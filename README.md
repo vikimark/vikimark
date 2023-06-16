@@ -43,7 +43,7 @@ Vishnu21                 2 mins              ████████░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 14 June 2023
+From: 19 January 2023 - To: 15 June 2023
 
 Total Time: 42 hrs 44 mins
 
