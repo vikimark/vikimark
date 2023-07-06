@@ -47,7 +47,7 @@ Text-personality         6 mins              █░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 04 July 2023
+From: 19 January 2023 - To: 05 July 2023
 
 Total Time: 48 hrs 38 mins
 
