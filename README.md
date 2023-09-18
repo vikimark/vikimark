@@ -41,16 +41,16 @@ No Activity Tracked This Week
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 19 July 2023
+From: 19 January 2023 - To: 17 September 2023
 
-Total Time: 53 hrs 9 mins
+Total Time: 82 hrs 58 mins
 
-Python       48 hrs 32 mins  ██████████████████████▓░░   91.32 %
-C++          1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-YAML         50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Markdown     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Git Config   18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-CSV          17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python         65 hrs 51 mins  ████████████████████░░░░░   79.37 %
+Java           9 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+C++            1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+YAML           50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Text           43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Prolog         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-simple-->
