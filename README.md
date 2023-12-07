@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 * Currently an engineering student.
-* Done moderate of machine-learning-related projects:film_projector:.
-* Interested in computer vision and making emulators:space_invader:.
-* Fascinated about space:milky_way:.
+* Done moderate of machine-learning-related projects :film_projector:.
+* Interested in computer vision and making emulators :space_invader:.
+* Fascinated about space :milky_way:.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Purich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purich-siritip-16b3b3255/)](https://www.linkedin.com/in/purich-siritip-16b3b3255) [![Medium Badge](https://img.shields.io/badge/-@purich-gray?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@phuritsiritip)](https://medium.com/@phuritsiritip)
 [![Gmail Badge](https://img.shields.io/badge/-mark.phurit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mark.phurit@gmail.com)](mailto:mark.phurit@gmail.com)
