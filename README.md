@@ -11,8 +11,6 @@
 
 ## Some stats
 
-<details>
-  <summary></summary>
   
   <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -58,8 +56,6 @@ JavaScript     1 hr 42 mins    ▒░░░░░░░░░░░░░░░�
 
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimark&show_icons=true&theme=gruvbox_light)-->
   
-</details>
-
 <!--
 **vikimark/vikimark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
