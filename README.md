@@ -39,7 +39,7 @@ NYU_Deep                 3 hrs 52 mins       ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 02 January 2024
+From: 19 January 2023 - To: 03 January 2024
 
 Total Time: 164 hrs 22 mins
 
