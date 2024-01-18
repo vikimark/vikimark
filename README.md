@@ -41,7 +41,7 @@ MRI-Segmentation         44 mins             ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 15 January 2024
+From: 19 January 2023 - To: 17 January 2024
 
 Total Time: 165 hrs 7 mins
 
