@@ -39,7 +39,7 @@ Adv Comprog              1 min               ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 21 January 2024
+From: 19 January 2023 - To: 22 January 2024
 
 Total Time: 165 hrs 8 mins
 
