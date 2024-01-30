@@ -45,7 +45,7 @@ AIHack                   0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 28 January 2024
+From: 19 January 2023 - To: 29 January 2024
 
 Total Time: 166 hrs 58 mins
 
