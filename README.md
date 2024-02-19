@@ -45,7 +45,7 @@ TypeDead                 3 mins              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 15 February 2024
+From: 19 January 2023 - To: 18 February 2024
 
 Total Time: 198 hrs 21 mins
 
