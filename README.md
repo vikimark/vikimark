@@ -43,7 +43,7 @@ Q3_2022                  29 mins             █░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 05 March 2024
+From: 19 January 2023 - To: 06 March 2024
 
 Total Time: 218 hrs 2 mins
 
