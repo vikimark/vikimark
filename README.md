@@ -46,7 +46,7 @@ Lab_Fund_DS              1 min               ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 13 March 2024
+From: 19 January 2023 - To: 14 March 2024
 
 Total Time: 221 hrs 48 mins
 
