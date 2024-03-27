@@ -47,7 +47,7 @@ Lab10-Hash               13 mins             ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 25 March 2024
+From: 19 January 2023 - To: 26 March 2024
 
 Total Time: 243 hrs 48 mins
 
