@@ -46,7 +46,7 @@ HW2_List_swap_range      0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 02 April 2024
+From: 19 January 2023 - To: 03 April 2024
 
 Total Time: 253 hrs 16 mins
 
