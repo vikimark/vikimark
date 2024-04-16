@@ -45,7 +45,7 @@ HW11-Sorting2nd          3 mins              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 14 April 2024
+From: 19 January 2023 - To: 15 April 2024
 
 Total Time: 263 hrs 44 mins
 
