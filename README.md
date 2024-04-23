@@ -43,7 +43,7 @@ HW15-Treap               0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 21 April 2024
+From: 19 January 2023 - To: 22 April 2024
 
 Total Time: 266 hrs 4 mins
 
