@@ -43,7 +43,7 @@ Lab-11-Sorting           9 mins              █░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 01 May 2024
+From: 19 January 2023 - To: 02 May 2024
 
 Total Time: 275 hrs 54 mins
 
