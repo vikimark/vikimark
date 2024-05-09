@@ -39,7 +39,7 @@ No Activity Tracked This Week
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 07 May 2024
+From: 19 January 2023 - To: 08 May 2024
 
 Total Time: 275 hrs 54 mins
 
