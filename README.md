@@ -39,7 +39,7 @@ Unknown Project          7 mins              ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 15 May 2024
+From: 19 January 2023 - To: 16 May 2024
 
 Total Time: 276 hrs 40 mins
 
