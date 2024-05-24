@@ -39,7 +39,7 @@ Psoas-muscle-weakness-pre1 hr 45 mins        ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 22 May 2024
+From: 19 January 2023 - To: 23 May 2024
 
 Total Time: 278 hrs 25 mins
 
