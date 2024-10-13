@@ -39,16 +39,16 @@ No Activity Tracked This Week
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 06 June 2024
+From: 19 January 2023 - To: 12 October 2024
 
-Total Time: 278 hrs 46 mins
+Total Time: 304 hrs 27 mins
 
-Python         188 hrs 37 mins █████████████████░░░░░░░░   67.66 %
-Java           61 hrs 46 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-GDScript3      4 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-CSS            3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Text           2 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-HTML           2 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Python         195 hrs         ████████████████░░░░░░░░░   64.05 %
+Java           63 hrs 8 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+TypeScript     11 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+HTML           5 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+GDScript3      4 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+CSS            3 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-simple-->
