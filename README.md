@@ -43,7 +43,7 @@ DupMe                    9 hrs 56 mins       ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 04 November 2024
+From: 19 January 2023 - To: 05 November 2024
 
 Total Time: 339 hrs 1 min
 
