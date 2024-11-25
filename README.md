@@ -39,7 +39,7 @@ Java                     2 mins              ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 21 November 2024
+From: 19 January 2023 - To: 24 November 2024
 
 Total Time: 344 hrs 19 mins
 
