@@ -41,7 +41,7 @@ BMA                      56 mins             ███████████�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 16 December 2024
+From: 19 January 2023 - To: 17 December 2024
 
 Total Time: 345 hrs 53 mins
 
