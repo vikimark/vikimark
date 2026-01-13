@@ -40,7 +40,7 @@ CSV                      0 secs              ░░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 11 January 2026
+From: 19 January 2023 - To: 12 January 2026
 
 Total Time: 442 hrs 50 mins
 
