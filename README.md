@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1716 commits        █████████░░░░░░░░░░░░░░░░   37.67 % 
-🌆 Daytime                1267 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-🌃 Evening                1230 commits        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-🌙 Night                  342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+🌞 Morning                1723 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
+🌆 Daytime                1272 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌃 Evening                1231 commits        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+🌙 Night                  349 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 
 
@@ -27,11 +27,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 8 mins        █████████████████████████   100.00 % 
+Python                   3 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CV Midterm Practice      2 hrs 33 mins       ████████████████████░░░░░   81.55 % 
-Class3-pygame            34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+CV Midterm Practice      2 hrs 33 mins       ███████████████████░░░░░░   76.41 % 
+Chap1                    47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
 ```
 
 
