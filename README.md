@@ -40,7 +40,7 @@ Chap1                    47 mins             ██████░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 02 March 2026
+From: 19 January 2023 - To: 03 March 2026
 
 Total Time: 450 hrs 31 mins
 
