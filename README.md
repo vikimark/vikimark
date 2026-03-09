@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1745 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌆 Daytime                1297 commits        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌃 Evening                1235 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌙 Night                  350 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+🌞 Morning                1759 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌆 Daytime                1328 commits        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+🌃 Evening                1249 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌙 Night                  350 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 
 
@@ -27,10 +27,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Chap1                    47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
