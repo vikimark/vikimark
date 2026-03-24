@@ -41,7 +41,7 @@ Unknown Project          0 secs              █████░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 22 March 2026
+From: 19 January 2023 - To: 23 March 2026
 
 Total Time: 450 hrs 35 mins
 
