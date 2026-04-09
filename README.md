@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1891 commits        ██████████░░░░░░░░░░░░░░░   38.06 % 
-🌆 Daytime                1410 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌃 Evening                1322 commits        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌙 Night                  345 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+🌞 Morning                1898 commits        █████████░░░░░░░░░░░░░░░░   37.91 % 
+🌆 Daytime                1424 commits        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+🌃 Evening                1338 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 
@@ -27,10 +27,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              ████████████████████████░   94.17 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Nabla-model-training     10 mins             █████████████████████████   99.68 % 
+CementFinenessPrediction 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 
