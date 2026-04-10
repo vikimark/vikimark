@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1898 commits        █████████░░░░░░░░░░░░░░░░   37.91 % 
-🌆 Daytime                1424 commits        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-🌃 Evening                1338 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+🌞 Morning                1900 commits        █████████░░░░░░░░░░░░░░░░   37.90 % 
+🌆 Daytime                1428 commits        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+🌃 Evening                1338 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 ```
 
 
@@ -27,13 +27,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              ████████████████████████░   94.17 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   24 mins             ██████████████████████░░░   88.90 % 
+Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-Nabla-model-training     10 mins             █████████████████████████   99.68 % 
-CementFinenessPrediction 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Nabla-model-training     27 mins             █████████████████████████   99.88 % 
+CementFinenessPrediction 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
