@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1900 commits        █████████░░░░░░░░░░░░░░░░   37.90 % 
-🌆 Daytime                1428 commits        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-🌃 Evening                1338 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌙 Night                  347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+🌞 Morning                1905 commits        █████████░░░░░░░░░░░░░░░░   37.90 % 
+🌆 Daytime                1434 commits        ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+🌃 Evening                1338 commits        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌙 Night                  349 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
 
@@ -27,13 +27,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   24 mins             ██████████████████████░░░   88.90 % 
-Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   39 mins             █████████████░░░░░░░░░░░░   53.49 % 
+HTML                     22 mins             ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🐱‍💻 Projects: 
-Nabla-model-training     27 mins             █████████████████████████   99.88 % 
-CementFinenessPrediction 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Nabla-model-training     40 mins             ██████████████░░░░░░░░░░░   54.37 % 
+lt200449-ttsign          28 mins             ██████████░░░░░░░░░░░░░░░   38.26 % 
+h4wpp                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Hand4Whole-plus-plus_RELE1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+CementFinenessPrediction 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
