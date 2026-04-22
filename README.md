@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1963 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌆 Daytime                1574 commits        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌃 Evening                1469 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌙 Night                  375 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+🌞 Morning                1970 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
+🌆 Daytime                1579 commits        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌃 Evening                1476 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌙 Night                  375 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
 
@@ -27,18 +27,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
-Markdown                 1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Python                   2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
+Markdown                 1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   34.29 % 
+YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🐱‍💻 Projects: 
-Nabla-model-training     1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-lt200449-ttsign          1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-CementFinenessPrediction 1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Last Z Survival          46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Trasure note             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Nabla-model-training     1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+lt200449-ttsign          1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+CementFinenessPrediction 1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Last Z Survival          46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Trasure note             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 
