@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2018 commits        █████████░░░░░░░░░░░░░░░░   36.37 % 
-🌆 Daytime                1620 commits        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-🌃 Evening                1515 commits        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌙 Night                  395 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+🌞 Morning                2020 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
+🌆 Daytime                1626 commits        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌃 Evening                1516 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+🌙 Night                  395 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 ```
 
 
@@ -27,18 +27,17 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 53 mins       ██████████████░░░░░░░░░░░   57.77 % 
-HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Other                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 2 hrs 14 mins       █████████████░░░░░░░░░░░░   53.87 % 
+HTML                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-Trasure note             2 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.44 % 
-Unknown Project          1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-Downloads                52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-BudgetBackUpReader       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Nabla-model-training     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Trasure note             2 hrs 13 mins       █████████████░░░░░░░░░░░░   53.72 % 
+Unknown Project          57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Downloads                52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Nabla-model-training     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
