@@ -13,31 +13,6 @@
 
   
   <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2053 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
-🌆 Daytime                1691 commits        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-🌃 Evening                1571 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌙 Night                  424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    49 mins             █████████████████░░░░░░░░   69.01 % 
-Python                   20 mins             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-
-🐱‍💻 Projects: 
-Trasure note             29 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
-lt200449-ttsign          21 mins             ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Nabla-model-training     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-```
-
 
 <!--END_SECTION:waka-->
 
