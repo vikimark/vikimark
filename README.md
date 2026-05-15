@@ -13,34 +13,6 @@
 
   
   <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2064 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌆 Daytime                1702 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-🌃 Evening                1579 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌙 Night                  424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.18 % 
-Markdown                 2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Other                    1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Image (svg)              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-
-🐱‍💻 Projects: 
-CementFinenessPrediction 2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.42 % 
-Trasure note             2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-Nabla-model-training     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-lt200449-ttsign          47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Nabla                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-```
-
 
 <!--END_SECTION:waka-->
 
