@@ -47,7 +47,7 @@ Nabla-model-training     1 hr 1 min          █░░░░░░░░░░�
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 17 May 2026
+From: 19 January 2023 - To: 18 May 2026
 
 Total Time: 503 hrs 2 mins
 
