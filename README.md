@@ -13,6 +13,34 @@
 
   
   <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2110 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
+🌆 Daytime                1832 commits        ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌃 Evening                1681 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   9 hrs 14 mins       █████████████░░░░░░░░░░░░   53.17 % 
+Markdown                 4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+
+🐱‍💻 Projects: 
+CementFinenessPrediction 7 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.44 % 
+Trasure note             3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+face-detection-cv-ise    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Unknown Project          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Nabla-model-training     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+```
+
 
 <!--END_SECTION:waka-->
 
