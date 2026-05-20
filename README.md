@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2110 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
-🌆 Daytime                1832 commits        ████████░░░░░░░░░░░░░░░░░   30.11 % 
-🌃 Evening                1681 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+🌞 Morning                2112 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
+🌆 Daytime                1838 commits        ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌃 Evening                1682 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 
@@ -27,18 +27,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 14 mins       █████████████░░░░░░░░░░░░   53.17 % 
-Markdown                 4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   7 hrs 40 mins       █████████████░░░░░░░░░░░░   53.21 % 
+Markdown                 4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 7 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.44 % 
-Trasure note             3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-face-detection-cv-ise    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Unknown Project          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Nabla-model-training     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+CementFinenessPrediction 6 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.42 % 
+Trasure note             3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Unknown Project          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+vikimark                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+nick-system              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 
 
