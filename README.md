@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2112 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌆 Daytime                1838 commits        ████████░░░░░░░░░░░░░░░░░   30.17 % 
-🌃 Evening                1682 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+🌞 Morning                2117 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
+🌆 Daytime                1843 commits        ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌃 Evening                1682 commits        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 
 
@@ -27,18 +27,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 40 mins       █████████████░░░░░░░░░░░░   53.21 % 
-Markdown                 4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python                   5 hrs 39 mins       ██████████████░░░░░░░░░░░   56.93 % 
+Markdown                 2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 6 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-Trasure note             3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-Unknown Project          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-vikimark                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-nick-system              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+CementFinenessPrediction 5 hrs 48 mins       ███████████████░░░░░░░░░░   58.50 % 
+Trasure note             2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Downloads                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+cham_00102               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
