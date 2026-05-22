@@ -16,9 +16,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2117 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
-🌆 Daytime                1843 commits        ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌃 Evening                1682 commits        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌞 Morning                2120 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
+🌆 Daytime                1845 commits        ████████░░░░░░░░░░░░░░░░░   30.21 % 
+🌃 Evening                1682 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 
@@ -27,17 +27,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 39 mins       ██████████████░░░░░░░░░░░   56.93 % 
-Markdown                 2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Python                   8 hrs 5 mins        ████████████████░░░░░░░░░   63.11 % 
+Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 5 hrs 48 mins       ███████████████░░░░░░░░░░   58.50 % 
-Trasure note             2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Downloads                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-cham_00102               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CementFinenessPrediction 8 hrs 22 mins       ████████████████░░░░░░░░░   65.31 % 
+SiloLagginPrediction     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Trasure note             1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Nabla-model-training     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Unknown Project          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
 
