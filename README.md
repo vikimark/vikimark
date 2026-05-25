@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2120 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌆 Daytime                1845 commits        ████████░░░░░░░░░░░░░░░░░   30.21 % 
-🌃 Evening                1682 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌞 Morning                2128 commits        █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌆 Daytime                1852 commits        ████████░░░░░░░░░░░░░░░░░   30.24 % 
+🌃 Evening                1683 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 ```
 
 
@@ -27,18 +27,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 5 mins        ████████████████░░░░░░░░░   63.11 % 
-Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Python                   5 hrs               ██████████████████░░░░░░░   72.98 % 
+Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 8 hrs 22 mins       ████████████████░░░░░░░░░   65.31 % 
-SiloLagginPrediction     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Trasure note             1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Nabla-model-training     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Unknown Project          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+CementFinenessPrediction 5 hrs 12 mins       ███████████████████░░░░░░   75.86 % 
+SiloLagginPrediction     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+agents_script            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+cham_00102               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 
