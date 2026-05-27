@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2133 commits        █████████░░░░░░░░░░░░░░░░   34.75 % 
-🌆 Daytime                1861 commits        ████████░░░░░░░░░░░░░░░░░   30.32 % 
-🌃 Evening                1683 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+🌞 Morning                2135 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌆 Daytime                1866 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
+🌃 Evening                1683 commits        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 
@@ -27,17 +27,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 43 mins       ██████████████████░░░░░░░   71.86 % 
-Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Python                   3 hrs 9 mins        ████████████████░░░░░░░░░   64.87 % 
+Markdown                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 4 hrs 54 mins       ███████████████████░░░░░░   74.77 % 
-SiloLagginPrediction     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-agents_script            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-cham_00102               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+CementFinenessPrediction 3 hrs 18 mins       █████████████████░░░░░░░░   67.94 % 
+SiloLagginPrediction     1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+agents_script            21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 
 
