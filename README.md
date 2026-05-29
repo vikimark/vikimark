@@ -13,31 +13,6 @@
 
   
   <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2138 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌆 Daytime                1869 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
-🌃 Evening                1687 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 41 mins             ███████████████░░░░░░░░░░   58.76 % 
-Python                   15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-
-🐱‍💻 Projects: 
-SiloLagginPrediction     48 mins             █████████████████░░░░░░░░   69.08 % 
-agents_script            21 mins             ████████░░░░░░░░░░░░░░░░░   30.92 % 
-```
-
 
 <!--END_SECTION:waka-->
 
