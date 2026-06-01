@@ -13,6 +13,26 @@
 
   
   <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2140 commits        █████████░░░░░░░░░░░░░░░░   34.70 % 
+🌆 Daytime                1877 commits        ████████░░░░░░░░░░░░░░░░░   30.44 % 
+🌃 Evening                1689 commits        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌙 Night                  461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
