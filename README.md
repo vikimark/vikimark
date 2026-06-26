@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2174 commits        █████████░░░░░░░░░░░░░░░░   34.48 % 
-🌆 Daytime                1950 commits        ████████░░░░░░░░░░░░░░░░░   30.93 % 
-🌃 Evening                1718 commits        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-🌙 Night                  463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+🌞 Morning                2216 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌆 Daytime                1979 commits        ████████░░░░░░░░░░░░░░░░░   30.92 % 
+🌃 Evening                1729 commits        ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+🌙 Night                  476 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 
 
@@ -27,10 +27,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.51 % 
+Python                   2 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.73 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ignition_apc_optimization4 hrs 32 mins       ████████████████████░░░░░   78.59 % 
+vikimark                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+completed                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+CementFinenessPrediction 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 
 
