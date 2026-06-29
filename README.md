@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2216 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌆 Daytime                1979 commits        ████████░░░░░░░░░░░░░░░░░   30.92 % 
-🌃 Evening                1729 commits        ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-🌙 Night                  476 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌞 Morning                2217 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌆 Daytime                1994 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌃 Evening                1730 commits        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+🌙 Night                  476 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 ```
 
 
@@ -27,17 +27,15 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.51 % 
-Python                   2 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.73 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   1 hr 56 mins        █████████████████░░░░░░░░   67.40 % 
+Markdown                 50 mins             ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-ignition_apc_optimization4 hrs 32 mins       ████████████████████░░░░░   78.59 % 
-vikimark                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-completed                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-CementFinenessPrediction 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+ignition_apc_optimization2 hrs 38 mins       ███████████████████████░░   91.33 % 
+CementFinenessPrediction 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 ```
 
 
