@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2217 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌆 Daytime                1994 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌃 Evening                1730 commits        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-🌙 Night                  476 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+🌞 Morning                2282 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌆 Daytime                2085 commits        ████████░░░░░░░░░░░░░░░░░   31.64 % 
+🌃 Evening                1747 commits        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌙 Night                  476 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 ```
 
 
@@ -27,15 +27,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 56 mins        █████████████████░░░░░░░░   67.40 % 
-Markdown                 50 mins             ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ignition_apc_optimization2 hrs 38 mins       ███████████████████████░░   91.33 % 
-CementFinenessPrediction 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+No Activity Tracked This Week
 ```
 
 
