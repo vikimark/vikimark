@@ -39,16 +39,15 @@ No Activity Tracked This Week
   <!--START_SECTION:waka-simple-->
 
 ```text
-From: 19 January 2023 - To: 22 July 2026
+From: 19 January 2023 - To: 23 July 2026
 
-Total Time: 513 hrs 22 mins
+Total Time: 551 hrs 35 mins
 
-Python             306 hrs 31 mins ███████████████░░░░░░░░░░   59.71 %
-Java               63 hrs 10 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-TypeScript         43 hrs 8 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Markdown           29 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-TeX                7 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-HTML               7 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Python             327 hrs 11 mins ██████████████▓░░░░░░░░░░   59.32 %
+Java               63 hrs 10 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Markdown           43 hrs 46 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+TypeScript         43 hrs 8 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Other              7 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-simple-->
