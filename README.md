@@ -13,15 +13,13 @@
 
   
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2021%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2422 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
-🌆 Daytime                2311 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌃 Evening                1869 commits        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-🌙 Night                  512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+🌞 Morning                2436 commits        █████████░░░░░░░░░░░░░░░░   34.14 % 
+🌆 Daytime                2318 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌃 Evening                1869 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+🌙 Night                  512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 
