@@ -18,10 +18,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2457 commits        █████████░░░░░░░░░░░░░░░░   34.27 % 
-🌆 Daytime                2331 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 Evening                1869 commits        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌙 Night                  512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+🌞 Morning                2465 commits        █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌆 Daytime                2335 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
+🌃 Evening                1871 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+🌙 Night                  512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 ```
 
 
@@ -29,39 +29,39 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   39.72 % 
-Markdown                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   37.69 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Python                   1 hr 13 mins        █████████████░░░░░░░░░░░░   52.09 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
 🐱‍💻 Projects: 
-StravaMCP                1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   40.84 % 
-Documents                1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.24 % 
-Trasure note             46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-TJA-Toolbox              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-cem                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+StravaMCP                1 hr 15 mins        █████████████░░░░░░░░░░░░   53.55 % 
+Documents                35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Trasure note             28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+TJA-Toolbox              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+cem                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 20 mins (100.0%)
 
-✍️ 1,559 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 949 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,397,593 Input Tokens, 163,511 Output Tokens
+🔤 16,773,333 Input Tokens, 115,543 Output Tokens
 
-💵 $120.67 Estimated AI Cost This Week
+💵 $86.34 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 24 AI Prompts
+🧠 5 AI Sessions, 19 AI Prompts
 
-Opus                     1,563 lines         █████████████████████████   100.00 % 
+Opus                     953 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
+📝 Concise Prompter — average 143 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
