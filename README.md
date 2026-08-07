@@ -13,59 +13,6 @@
 
   
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2021%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2465 commits        █████████░░░░░░░░░░░░░░░░   34.32 % 
-🌆 Daytime                2335 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 Evening                1871 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-🌙 Night                  512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████░░░░░░░░░░░░   52.09 % 
-Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-
-🐱‍💻 Projects: 
-StravaMCP                1 hr 15 mins        █████████████░░░░░░░░░░░░   53.55 % 
-Documents                35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Trasure note             28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-TJA-Toolbox              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-cem                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 20 mins (100.0%)
-
-✍️ 949 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 16,773,333 Input Tokens, 115,543 Output Tokens
-
-💵 $86.34 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 19 AI Prompts
-
-Opus                     953 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 143 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
