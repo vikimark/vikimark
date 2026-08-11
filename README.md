@@ -13,6 +13,34 @@
 
   
   <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2021%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2483 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌆 Daytime                2344 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌃 Evening                1875 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌙 Night                  512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
