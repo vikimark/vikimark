@@ -13,13 +13,15 @@
 
   
   <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2032%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2569 commits        ████████░░░░░░░░░░░░░░░░░   33.52 % 
-🌆 Daytime                2550 commits        ████████░░░░░░░░░░░░░░░░░   33.28 % 
-🌃 Evening                1992 commits        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-🌙 Night                  552 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+🌞 Morning                2569 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌆 Daytime                2553 commits        ████████░░░░░░░░░░░░░░░░░   33.30 % 
+🌃 Evening                1992 commits        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌙 Night                  553 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 
 
@@ -27,41 +29,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.44 % 
-Other                    2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-Markdown                 2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-HTML                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Python                   1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Markdown                 1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+Other                    1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+HTML                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 10 hrs 2 mins       ███████████████████████░░   93.58 % 
-AGENTS.md                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-SCG-CBM                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+CementFinenessPrediction 5 hrs 44 mins       ████████████████████████░   97.70 % 
+AGENTS.md                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 52 mins (100.0%)
 
-✍️ 10,593 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,982 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,235,708 Input Tokens, 532,366 Output Tokens
+🔤 2,369,499 Input Tokens, 326,807 Output Tokens
 
-💵 $87.01 Estimated AI Cost This Week
+💵 $63.56 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 148 AI Prompts
+🧠 22 AI Sessions, 81 AI Prompts
 
-Opus                     5,904 lines         ██████████████░░░░░░░░░░░   54.68 % 
-GPT                      4,893 lines         ███████████░░░░░░░░░░░░░░   45.32 % 
+Opus                     5,904 lines         █████████████████████████   98.50 % 
+GPT                      90 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,469 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 5,789 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
