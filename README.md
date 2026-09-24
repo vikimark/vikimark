@@ -18,10 +18,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2570 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
-🌆 Daytime                2555 commits        ████████░░░░░░░░░░░░░░░░░   33.31 % 
-🌃 Evening                1992 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌙 Night                  553 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+🌞 Morning                2571 commits        ████████░░░░░░░░░░░░░░░░░   33.55 % 
+🌆 Daytime                2551 commits        ████████░░░░░░░░░░░░░░░░░   33.29 % 
+🌃 Evening                1993 commits        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌙 Night                  548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 ```
 
 
@@ -29,40 +29,34 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
-Markdown                 1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-HTML                     1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Markdown                 9 mins              ███████████░░░░░░░░░░░░░░   44.36 % 
+Python                   8 mins              ██████████░░░░░░░░░░░░░░░   40.06 % 
+HTML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 5 hrs 3 mins        ████████████████████████░   97.40 % 
-AGENTS.md                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CementFinenessPrediction 21 mins             █████████████████████████   99.70 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (100.0%)
+⏱ AI Coding Time: 21 mins (100.0%)
 
-✍️ 5,968 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,265 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,223,053 Input Tokens, 295,171 Output Tokens
+🔤 288,875 Input Tokens, 31,596 Output Tokens
 
-💵 $60.96 Estimated AI Cost This Week
+💵 $6.31 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 71 AI Prompts
+🧠 5 AI Sessions, 6 AI Prompts
 
-Opus                     5,890 lines         █████████████████████████   98.49 % 
-GPT                      90 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,265 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,154 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 3,596 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
