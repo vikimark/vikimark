@@ -13,14 +13,14 @@
 
   
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2030%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2755 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
-🌆 Daytime                2806 commits        █████████░░░░░░░░░░░░░░░░   34.31 % 
-🌃 Evening                2069 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌞 Morning                2758 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
+🌆 Daytime                2807 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
+🌃 Evening                2070 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
 🌙 Night                  548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 ```
 
@@ -29,38 +29,37 @@
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 40 mins       █████████████░░░░░░░░░░░░   50.23 % 
-HTML                     4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Text                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+HTML                     3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
+Python                   2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Text                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🐱‍💻 Projects: 
-CementFinenessPrediction 10 hrs 12 mins      █████████████████░░░░░░░░   66.80 % 
-BudgetBackUpReader       5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-scratch-2026-09-29-b6947c0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+BudgetBackUpReader       4 hrs 38 mins       ██████████████░░░░░░░░░░░   56.12 % 
+CementFinenessPrediction 3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 16 mins (100.0%)
 
-✍️ 12,776 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,708 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,333,260 Input Tokens, 1,670,986 Output Tokens
+🔤 3,152,753 Input Tokens, 1,077,041 Output Tokens
 
-💵 $111.03 Estimated AI Cost This Week
+💵 $71.68 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 101 AI Prompts
+🧠 15 AI Sessions, 72 AI Prompts
 
-Opus                     13,194 lines        █████████████████████████   100.00 % 
+Opus                     8,125 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 968 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,044 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
