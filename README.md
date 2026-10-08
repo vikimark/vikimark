@@ -18,10 +18,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2758 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-🌆 Daytime                2807 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
-🌃 Evening                2070 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-🌙 Night                  548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+🌞 Morning                2761 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌆 Daytime                2809 commits        █████████░░░░░░░░░░░░░░░░   34.29 % 
+🌃 Evening                2073 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+🌙 Night                  548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
 
 
@@ -29,37 +29,40 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
-Python                   2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Text                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+HTML                     3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
+Markdown                 2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+Other                    2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-BudgetBackUpReader       4 hrs 38 mins       ██████████████░░░░░░░░░░░   56.12 % 
-CementFinenessPrediction 3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.88 % 
+CementFinenessPrediction 4 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
+04_strength_decrease_anal3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+BudgetBackUpReader       1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+agents_script            42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+data                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 48 mins (100.0%)
 
-✍️ 7,708 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,875 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,152,753 Input Tokens, 1,077,041 Output Tokens
+🔤 3,257,759 Input Tokens, 970,255 Output Tokens
 
-💵 $71.68 Estimated AI Cost This Week
+💵 $77.48 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 72 AI Prompts
+🧠 16 AI Sessions, 60 AI Prompts
 
-Opus                     8,125 lines         █████████████████████████   100.00 % 
+Opus                     6,035 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,044 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 1,527 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
