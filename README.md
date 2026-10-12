@@ -18,10 +18,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2764 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-🌆 Daytime                2813 commits        █████████░░░░░░░░░░░░░░░░   34.31 % 
-🌃 Evening                2074 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-🌙 Night                  548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+🌞 Morning                2767 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
+🌆 Daytime                2822 commits        █████████░░░░░░░░░░░░░░░░   34.37 % 
+🌃 Evening                2074 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+🌙 Night                  548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -29,40 +29,40 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
-Other                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-HTML                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Python                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Markdown                 2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
+Other                    2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.45 % 
+HTML                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-04_strength_decrease_anal3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-CementFinenessPrediction 2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
-BudgetBackUpReader       1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-agents_script            42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-data                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+04_strength_decrease_anal3 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.83 % 
+CementFinenessPrediction 2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
+agents_script            42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+data                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+home                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 34 mins (100.0%)
 
-✍️ 4,511 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,752 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,067,453 Input Tokens, 794,569 Output Tokens
+🔤 1,197,057 Input Tokens, 418,951 Output Tokens
 
-💵 $65.11 Estimated AI Cost This Week
+💵 $38.14 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 50 AI Prompts
+🧠 9 AI Sessions, 30 AI Prompts
 
-Opus                     4,671 lines         █████████████████████████   100.00 % 
+Opus                     1,752 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,622 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 955 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
